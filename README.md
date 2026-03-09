@@ -1,63 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=HeyZhuang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Software%20Engineer&descAlignY=51&descAlign=62"/>
+  <h1>Hi there, I'm Chen Kaizhuang (HeyZhuang) 👋</h1>
+  <h3>AI Full-Stack Engineer | Vibe Coder | Agentic Workflow Builder</h3>
+  <p><i>“Empowering creativity and productivity through Spec Coding & LLM Agents.”</i></p>
 </div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+我是一名来自中北大学软件工程专业的大三学生，目前在 **蓝色光标 (BlueFocus)** 担任 AI 研发实习生。我推崇 **"Spec Coding"** 的开发哲学——在 AI 的辅助下，享受不疲惫的沉浸式心流与绝对的系统掌控感。
+
+从云原生架构 (GCP) 到前沿的大模型应用开发 (LLMOps)，我热衷于探索技术边界，并将其转化为实际的生产力工具与商业价值。
+
+---
+
+## 🔥 Current Focus @ BlueFocus
+
+目前，我在蓝色光标深度参与营销科技领域的 AI 变革，核心攻坚以下方向：
+
+* **🤖 核心 Agent 架构搭建**：从零到一构建并落地复杂的 AI Agent 工作流，基于 LangChain/LangGraph 等框架，打造能够自主规划、调用工具解决复杂业务场景的智能体。
+* **🚀 AI 中间页自动化生成**：结合大语言模型与前端工程化，实现高转化率营销中间页的 AI 自动化生成与智能排版，极大提升投放物料的生产效率。
+* **🎯 搜广投 (Search, Ads & Bidding) 赋能**：将 AI 技术深度融入广告搜索、推荐与投放链路，通过数据洞察与智能生成优化 ROI。
+* **⚙️ 生产级异步流水线**：基于 GCP (Cloud Run, Cloud Tasks, GCS) 和 FFmpeg，构建高可用的异步视频封面生成及媒体处理服务。
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Bridge+Between+Code+and+AI;Java+%26+TypeScript+Enthusiast;Crafting+Digital+Experiences;2027+Class+Developer)](https://git.io/typing-svg)
+**AI & LLMOps**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
-  <a href="https://github.com/HeyZhuang">
-    <img src="https://komarev.com/ghpvc/?username=HeyZhuang&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-  </a>
-</div>
+**Backend Development**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
----
+**Frontend Development**<br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 
-### 👨‍💻 About Me (关于我)
-
-你好！我是 **HeyZhuang (heycckz)**，一名热衷于探索 **AI Agent 应用落地** 与 **全栈系统架构** 的开发者（Class of 2027）。
-
-我不止写代码，我构建连接数字与现实的桥梁。从优雅的 **前端交互** 到稳健的 **后端架构**，再到 **AI 智能化** 的融合，我致力于打造有温度、有深度的技术产品。
-
-- 🔭 目前正在专注于：**构建 AI 驱动的个人知识库系统 & 沉浸式移动端应用**
-- 🌱 正在深入学习：**LLM 应用开发 (LangChain), Spring Cloud 微服务架构**
-- 💡 核心理念：**技术服务于生活 (Tech for Life)**
-
----
-
-### 🛠️ Tech Stack (技术栈)
-
-<div align="center">
-
-| **Core** | **Frontend & Mobile** | **Backend & Cloud** | **Tools & AI** |
-| :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) <br> ![UniApp](https://img.shields.io/badge/UniApp-2B9939?style=for-the-badge&logo=uniapp&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) <br> ![Bmob](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![AI Ready](https://img.shields.io/badge/AI_Integration-Ready-blueviolet?style=for-the-badge) |
+**Cloud, DevOps & Databases**<br/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 </div>
 
 ---
 
-### 🌟 Featured Projects (精选项目)
+## 🌟 Featured Projects
 
-| 项目名称 | 简介 & 技术亮点 | 领域 |
-| :--- | :--- | :--- |
-| **[BelleAroma-CraftShop](https://github.com/HeyZhuang/BelleAroma-CraftShop)** | **✨ 沉浸式香氛美学电商小程序**<br>• 极简治愈系 UI 设计，高复用组件化架构<br>• 探索电商场景下的智能推荐与用户体验优化 | `TypeScript` `WeChat Mini` `UX/UI` |
-| **[Digital-Library-Cave](https://github.com/HeyZhuang/Digital-Library-Cave)** | **🧠 个人第二大脑知识库**<br>• 私有化知识存储解决方案<br>• 旨在解决信息碎片化，未来集成 RAG 检索增强 | `Knowledge Base` `System Design` |
-| **[SoulLink](https://github.com/HeyZhuang/SoulLink)** | **🔮 梦境传说 RPG 互动平台**<br>• 强叙事驱动的角色扮演系统<br>• 复杂的后端逻辑与沉浸式前端交互 | `Java` `Interactive` `Web` |
-| **[agri-aid-platform](https://github.com/HeyZhuang/agri-aid-platform)** | **🌾 智慧助农扶贫系统**<br>• 数字化赋能农业，连接供需两端<br>• 完整的全栈业务系统实现 | `Full Stack` `Social Good` |
+* 🌌 **Nebula Trader (2026)** | *Hackathon Project*
+    * 在 "Rebel in Paradise" AI Hackathon 中研发的 3D AI 预测市场系统。结合 Three.js (3D 可视化) 与 LangChain (Agent 核心逻辑)。
+* 🎨 **SaaS Design Platform Integration (2025)** | *Yuanzhoufang Tech*
+    * 负责核心的 PSD 图层解析与 AI 图像编辑工具的深度集成，打通设计到代码的自动化流程。
+* 🏛️ **数字藏金阁 (Digital Library Cave)**
+    * 独立研发的数字资产管理项目，已成功获得国家软件著作权认证。
+* 📱 **Personal AI Content Factory**
+    * 全自动化的个人品牌增长引擎，利用 AI 实现多语言文章翻译、封面生成以及小红书/微信等多平台的草稿管理。
 
 ---
 
 <div align="center">
-  
-  ### ❝ Code with Heart, Empower with AI. ❞
-
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A9D6E5&center=true&vCenter=true&width=435&lines=HeyZhuang">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=2F3E46&center=true&vCenter=true&width=435&lines=HeyZhuang">
-    <img alt="Signature" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=2F3E46&center=true&vCenter=true&width=435&lines=HeyZhuang">
-  </picture>
-
+  <p>💬 <b>Let's Connect!</b></p>
+  <p>欢迎探讨 AI Agent 落地、大湾区 (GBA) 的新机遇、自动化工作流或是任何关于 Spec Coding 的有趣想法！</p>
 </div>
